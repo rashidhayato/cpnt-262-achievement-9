@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://calculateGST(subTotal1,gstRate)",
+      "request": "launch",
+      "url": "http://calculateGST(subTotal1,gstRate)"
+    }
+  ]
+}
